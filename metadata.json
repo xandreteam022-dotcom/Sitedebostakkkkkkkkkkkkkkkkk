@@ -1,0 +1,7 @@
+{
+  "name": "Casa Geriátrica São Mateus - Site Oficial",
+  "description": "Portal de doações e campanhas da Casa Geriátrica São Mateus.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
